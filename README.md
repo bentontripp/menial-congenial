@@ -11,4 +11,6 @@ Some brief tutorials solving basic math problems through coding.
 [Full Calculus Tutorial](tutorials/calculus/calculus_tutorial.ipynb)
 
 ### Linear Algebra
+[Full Linear Algebra Tutorial](tutorials/linear_algebra/la_tutorial.ipynb)
 ### Statistics
+[Full Statistics Tutorial](tutorials/statistics/stats_tutorial.rmd)
