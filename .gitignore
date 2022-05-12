@@ -130,3 +130,9 @@ dmypy.json
 
 # Notebook Conversion
 convert.txt
+
+# Embedded code
+embedded_code.ipynb
+
+# Images
+images/*
