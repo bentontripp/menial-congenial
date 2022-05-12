@@ -3,15 +3,15 @@
 ## Table of Contents
 ### Calculus
 
-[Calculus Introduction](tutorials/calculus/notebooks/calc_intro.ipynb) <br>
-[Limits, Derivatives, & Integrals](tutorials/calculus/lmt_diff_int.ipynb) <br>
-[Series](tutorials/calculus/series.ipynb) <br>
-[Parametric Equations & Polar Coordinates (in progress)](tutorials/calculus/notebooks/par_pol.ipynb) <br>
-[Vectors & Vector Calculus (in progress)](tutorials/calculus/notebooks/vectors.ipynb) <br>
-[Full Calculus Tutorial (in progress)](tutorials/calculus/notebooks/calculus_tutorial.ipynb)
+[Calculus Introduction](tutorials/calculus/notebooks/1_calc_intro.ipynb) <br>
+[Limits, Derivatives, & Integrals](tutorials/calculus/2_lmt_diff_int.ipynb) <br>
+[Series](tutorials/calculus/notebooks/3_series.ipynb) <br>
+[Parametric Equations & Polar Coordinates (in progress)](tutorials/calculus/notebooks/4_par_pol.ipynb) <br>
+[Vectors & Vector Calculus (in progress)](tutorials/calculus/notebooks/5_vectors.ipynb) <br>
+[Full Calculus Tutorial (in progress)](tutorials/calculus/notebooks/0_calculus_tutorial.ipynb)
 
 ### Linear Algebra
-[Full Linear Algebra Tutorial (in progress)](tutorials/linear_algebra/notebooks/la_tutorial.ipynb)
+[Full Linear Algebra Tutorial (in progress)](tutorials/linear_algebra/notebooks/0_la_tutorial.ipynb)
 
 _______________________
 ## Introduction
