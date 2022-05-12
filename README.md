@@ -5,15 +5,13 @@
 
 [Calculus Introduction](tutorials/calculus/calc_intro.ipynb) <br>
 [Limits, Derivatives, & Integrals](tutorials/calculus/lmt_diff_int.ipynb) <br>
-[Sequences & Series (in progress)](tutorials/calculus/seq_ser.ipynb) <br>
+[Series](tutorials/calculus/series.ipynb) <br>
 [Parametric Equations & Polar Coordinates (in progress)](tutorials/calculus/par_pol.ipynb) <br>
 [Vectors & Vector Calculus (in progress)](tutorials/calculus/vectors.ipynb) <br>
 [Full Calculus Tutorial (in progress)](tutorials/calculus/calculus_tutorial.ipynb)
 
 ### Linear Algebra
 [Full Linear Algebra Tutorial (in progress)](tutorials/linear_algebra/la_tutorial.ipynb)
-### Statistics
-[Full Statistics Tutorial (in progress)](tutorials/statistics/stats_tutorial.rmd)
 
 _______________________
 ## Introduction
