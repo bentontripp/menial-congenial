@@ -9,10 +9,6 @@
 [Parametric Equations & Polar Coordinates (in progress)](tutorials/calculus/notebooks/4_par_pol.ipynb) <br>
 [Vectors & Vector Calculus (in progress)](tutorials/calculus/notebooks/5_vectors.ipynb) <br>
 [Full Calculus Tutorial (in progress)](tutorials/calculus/notebooks/0_calculus_tutorial.ipynb)
-
-### Linear Algebra
-[Full Linear Algebra Tutorial (in progress)](tutorials/linear_algebra/notebooks/0_la_tutorial.ipynb)
-
 _______________________
 ## Introduction
 
